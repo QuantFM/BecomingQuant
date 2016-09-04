@@ -1,5 +1,7 @@
 # Quant入门指南
 
+## 0. 如何使用该指南
+
 ## 1. Quant简介
 
 ### 1.1 什么是Quant
@@ -19,3 +21,9 @@ A quant designs and implements mathematical models for the pricing of derivative
 ## 2. 学习路线
 
 ## 3. 学习资源
+### 3.1 书籍
+#### 3.1.1 中文书籍
+#### 3.1.2 英文书籍
+### 3.2 课程
+### 3.3 Podcast/音频
+### 3.4 网站
