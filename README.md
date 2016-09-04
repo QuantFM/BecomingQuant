@@ -1,4 +1,4 @@
-# Quant入门指南
+# Quant入门指南-Beta
 
 ## 0. 如何使用该指南
 
@@ -29,7 +29,15 @@ A quant designs and implements mathematical models for the pricing of derivative
 #### 3.3.1 中文
 #### 3.3.2 英文
 * <a href="http://bettersystemtrader.com/" target="_blank">BetterSystemTrader</a> BetterSystemTrader，由Andrew Swanscott创立并维护，每期会邀请知名交易员对交易策略等进行分享，相应的也会有资源推荐。可在官网/Podcast进行收听。
-* 
 
-### 3.4 网站
+### 3.4 博客/网站
+#### 3.4.1 中文
+* [vn.py-基于python的开源交易平台开发框架](https://zhuanlan.zhihu.com/vn-py)
+
+
+#### 3.4.2 英文
+
+### 3.5 框架/软件
+
+
 ## 4. Q&A
